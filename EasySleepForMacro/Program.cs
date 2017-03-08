@@ -25,7 +25,7 @@ namespace EasySleepForMacro
                                       + "This is the Help Menu For Peter Bustraan's Easy Sleep Application for Keyboard Macro Usage"
                                       + newLine + "Default Usage forces sleep mode and allows for software wake event"
                                       + newLine + "Sleep:     forces sleep mode and allows software wake event"
-                                      + newLine + "Hibernate: forces hybernate and allows for software wake event"
+                                      + newLine + "Hibernate: forces hibernate and allows for software wake event"
                                       + newLine + "NoWake:    disables software wake event"
                                       + newLine + "Nice:      disables forced power state change"
                                       + newLine + newLine + "Press Any Key to exit");
